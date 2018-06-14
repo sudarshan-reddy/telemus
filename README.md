@@ -3,6 +3,10 @@ Helper library to run tensorflow predictions in Go with pretrained models.
 
 Implementation to help with: https://sudarshan-reddy.github.io/keras-to-go
 
+Dependencies:
+    1. Tensorflow.
+    2. Tensorflow for Go (This can be obtained by running `dep ensure`.
+
 
 Example Usage:
 
